@@ -143,3 +143,31 @@
 .logo img {
   filter: invert(1);
 }
+
+
+// Late Edition Code By AbdulTawabJ 
+.css-y57zde{
+  background-color: rgb(31, 31, 31);
+}
+body{
+  color: #ffff;
+}
+.css-1bd5zad{
+  border-radius: 10px;
+  padding: 10px;
+}
+.css-1bd5zad:hover{
+    background-color: grey;
+    color: yellow;
+}
+.css-1mtmiup{
+  transition: 0.25s;
+  background-color: grey;
+  color: yellow;
+}
+.css-1mtmiup:hover{
+  background-color: yellow;
+  color: black;
+  font-weight: 800;
+}
+
